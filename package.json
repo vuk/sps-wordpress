@@ -1,0 +1,19 @@
+{
+  "name": "sps-2021",
+  "version": "0.0.1",
+  "description": "Wordpress theme for Socialist Party of Serbia",
+  "main": "index.ts",
+  "scripts": {
+  },
+  "repository": {
+    "url": "git@github.com:vuk/sps-wordpress.git",
+    "type": "git"
+  },
+  "author": "Vuk Stankovic <vuks89@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
+}
